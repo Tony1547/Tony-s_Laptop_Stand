@@ -1,0 +1,192 @@
+Info: Total warnings: 0, errors: 0.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Info: Processing symbol 'U1:CoreChips SL2.1A:SOP-16_L10.0-W3.9-P1.27-LS6.0-BL'.
+Info: Processing symbol 'J1:Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV'.
+Info: Processing symbol 'D1:Diode_SMD:D_SOD-523'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Info: Processing symbol 'USB1:PCBLIB_USB-A-TH_U-G-04WD-W-01_2025-11-23 (1):USB-A-TH_U-G-04WD-W-01'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Info: Processing symbol 'USB2:Jing Extension of the Electronic Co. 903-131A1011D10100:USB-A-TH_C46407'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Info: Processing symbol 'USB3:Jing Extension of the Electronic Co. 903-131A1011D10100:USB-A-TH_C46407'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder'.
+Add net Net-(U1-DP).
+Updated U1 sheetfile to 'USB_HUB.kicad_sch'.
+Add net Net-(U1-DM2).
+Connected U1 pin 5 to Net-(U1-DM2).
+
+Add net +5V.
+Connected U1 pin 11 to +5V.
+Add net Net-(U1-DM).
+Connected U1 pin 9 to Net-(U1-DM).
+Add net Net-(U1-DM1).
+Connected U1 pin 7 to Net-(U1-DM1).
+Updated U1 sheetname to '/'.
+Connected U1 pin 10 to Net-(U1-DP).
+Connected U1 pin 4 to DP3.
+Connected U1 pin 16 to GND.
+Connected U1 pin 2 to DP4.
+Connected USB3 pin 5 to GND.
+Add net Net-(U1-DP2).
+Connected U1 pin 6 to Net-(U1-DP2).
+Connected U1 pin 12 to GND.
+Connected U1 pin 13 to Net-(U1-VDD33).
+Connected U1 pin 1 to DM4.
+Connected J1 pin B5 to unconnected-(J1-CC2-PadB5).
+Connected J1 pin A4 to Net-(J1-VBUS-PadA4).
+Connected J1 pin A9 to Net-(J1-VBUS-PadA4).
+Connected J1 pin B12 to GND.
+Connected J1 pin B1 to GND.
+Add net DM3.
+Connected J1 pin B7 to DM3.
+Connected J1 pin S1 to unconnected-(J1-SHIELD-PadS1).
+Add net DP4.
+Connected J1 pin A6 to DP4.
+Add net unconnected-(J1-CC2-PadB5).
+Connected U1 pin 3 to DM3.
+Add net DP3.
+Connected J1 pin B6 to DP3.
+Connected J1 pin A1 to GND.
+
+Added U1 (footprint 'CoreChips SL2.1A:SOP-16_L10.0-W3.9-P1.27-LS6.0-BL').
+Changed  reference designator to U1.
+Changed U1 value from SOP-16_L10.0-W3.9-P1.27-LS6.0-BL to SL2.1A.
+Updated U1 symbol association from  to /8800d7c1-e57e-4450-9b31-ea1ec239d50c.
+Updated U1 fields.
+Connected USB2 pin 1 to Net-(USB2-VCC).
+Connected USB3 pin 1 to Net-(USB3-VCC).
+Added USB2 (footprint 'Jing Extension of the Electronic Co. 903-131A1011D10100:USB-A-TH_C46407').
+Changed U1 reference designator to USB2.
+Changed USB2 value from USB-A-TH_C46407 to USB-AF-90-14.4X13.6-H7.0-DIP.
+Updated USB2 symbol association from  to /ce37742c-b42c-4432-8650-e277ab9ff057.
+Updated USB2 fields.
+Updated USB2 sheetname to '/'.
+Updated USB2 sheetfile to 'USB_HUB.kicad_sch'.
+Connected USB3 pin 4 to GND.
+Connected USB2 pin 3 to Net-(U1-DP2).
+Connected USB1 pin 4 to GND.
+Connected USB2 pin 4 to GND.
+Connected USB2 pin 5 to GND.
+Connected USB2 pin 2 to Net-(U1-DM2).
+Connected USB2 pin 6 to GND.
+Updated USB3 sheetfile to 'USB_HUB.kicad_sch'.
+Added USB3 (footprint 'Jing Extension of the Electronic Co. 903-131A1011D10100:USB-A-TH_C46407').
+Changed U1 reference designator to USB3.
+Changed USB3 value from USB-A-TH_C46407 to USB-AF-90-14.4X13.6-H7.0-DIP.
+Updated USB3 symbol association from  to /26b72d55-bb5e-4048-862b-62781e9a0055.
+Updated USB3 sheetname to '/'.
+Updated USB1 symbol association from  to /65dc1bf1-2d61-467e-9ae8-8540682a243d.
+Add net unconnected-(U1-XOUT-Pad15).
+Connected U1 pin 15 to unconnected-(U1-XOUT-Pad15).
+Connected U1 pin 14 to Net-(U1-VDD18).
+Add net Net-(U1-DP1).
+Connected U1 pin 8 to Net-(U1-DP1).
+Connected USB3 pin 2 to Net-(U1-DM1).
+Connected USB3 pin 6 to GND.
+Added USB1 (footprint 'PCBLIB_USB-A-TH_U-G-04WD-W-01_2025-11-23 (1):USB-A-TH_U-G-04WD-W-01').
+Changed  reference designator to USB1.
+Changed USB1 value from USB-A-TH_U-G-04WD-W-01 to U-G-04DD-W-01.
+Updated USB3 fields.
+Updated USB1 fields.
+Updated USB1 sheetname to '/'.
+Updated USB1 sheetfile to 'USB_HUB.kicad_sch'.
+Connected USB1 pin 6 to GND.
+Connected USB1 pin 3 to Net-(U1-DP).
+Connected USB1 pin 1 to Net-(D1-A).
+Connected USB3 pin 3 to Net-(U1-DP1).
+Connected USB1 pin 2 to Net-(U1-DM).
+Connected USB1 pin 5 to GND.
+Added C4 (footprint 'Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Added C3 (footprint 'Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0201_0603Metric_Pad0.64x0.40mm_HandSolder to 10uF.
+Updated C3 symbol association from  to /257f8d8c-9f0a-4c2e-92fc-ef634f22c6ef.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated C3 sheetfile to 'USB_HUB.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Connected C3 pin 2 to GND.
+Add net Net-(USB2-VCC).
+Connected C3 pin 1 to Net-(USB2-VCC).
+Connected C2 pin 1 to Net-(USB3-VCC).
+Changed REF** reference designator to C4.
+Changed C4 value from C_0201_0603Metric_Pad0.64x0.40mm_HandSolder to 10uF.
+Updated C4 symbol association from  to /814268be-4df8-4cc8-a8bc-6aae2719f5c5.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'USB_HUB.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 2 to GND.
+Add net Net-(U1-VDD18).
+Connected C4 pin 1 to Net-(U1-VDD18).
+Connected C1 pin 1 to Net-(D1-K).
+Added C1 (footprint 'Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Changed REF** reference designator to C1.
+Changed C1 value from C_0201_0603Metric_Pad0.64x0.40mm_HandSolder to 10uF.
+Updated C1 symbol association from  to /e960c285-e3da-4033-9539-bac79837a1cc.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'USB_HUB.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Add net GND.
+Connected C1 pin 2 to GND.
+Add net Net-(D1-K).
+Added C5 (footprint 'Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Added C2 (footprint 'Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0201_0603Metric_Pad0.64x0.40mm_HandSolder to 10uF.
+Updated C2 symbol association from  to /54d2cc04-7386-444e-a6c3-24d418496e1d.
+Updated C2 fields.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'USB_HUB.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Connected C2 pin 2 to GND.
+Add net Net-(USB3-VCC).
+Connected J1 pin S1 to unconnected-(J1-SHIELD-PadS1).
+Changed REF** reference designator to J1.
+Changed J1 value from USB_C_Receptacle_G-Switch_GT-USB-7010ASV to USB_C_Receptacle_USB2.0_16P.
+Updated J1 symbol association from  to /726c6c97-b902-4908-96a8-986a59461b56.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'USB_HUB.kicad_sch'.
+Updated J1 footprint filters to 'USB*C*Receptacle*'.
+Add net unconnected-(J1-SHIELD-PadS1).
+Connected J1 pin S1 to unconnected-(J1-SHIELD-PadS1).
+Add net unconnected-(J1-CC1-PadA5).
+Connected J1 pin A5 to unconnected-(J1-CC1-PadA5).
+Added J1 (footprint 'Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV').
+Add net unconnected-(J1-SBU2-PadB8).
+Connected J1 pin B8 to unconnected-(J1-SBU2-PadB8).
+Add net Net-(J1-VBUS-PadA4).
+Connected J1 pin B4 to Net-(J1-VBUS-PadA4).
+Add net DM4.
+Connected J1 pin A7 to DM4.
+Connected J1 pin B9 to Net-(J1-VBUS-PadA4).
+Connected J1 pin S1 to unconnected-(J1-SHIELD-PadS1).
+Add net unconnected-(J1-SBU1-PadA8).
+Connected J1 pin A8 to unconnected-(J1-SBU1-PadA8).
+Added D1 (footprint 'Diode_SMD:D_SOD-523').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0201_0603Metric_Pad0.64x0.40mm_HandSolder to 10uF.
+Updated C5 symbol association from  to /affa7300-20b4-46c0-949f-a0a63590ae1e.
+Updated C5 fields.
+Updated C5 sheetname to '/'.
+Updated C5 sheetfile to 'USB_HUB.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Add net Net-(U1-VDD33).
+Connected C5 pin 1 to Net-(U1-VDD33).
+Connected C5 pin 2 to GND.
+Connected J1 pin A12 to GND.
+Changed REF** reference designator to D1.
+Changed D1 value from D_SOD-523 to 1N4148WT.
+Updated D1 symbol association from  to /bd6e2175-2470-4fb5-aa1e-7de024c9bfb1.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'USB_HUB.kicad_sch'.
+Updated D1 footprint filters to 'D*SOD?523*'.
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Connected D1 pin 1 to Net-(D1-K).
+
+
+Info: Total warnings: 0, errors: 0.
